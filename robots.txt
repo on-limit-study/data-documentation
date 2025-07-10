@@ -1,1 +1,1 @@
-Sitemap: https://docs.onlimit.org/sitemap.xml
+Sitemap: https://onlimit-study.github.io/data-documentation/sitemap.xml
